@@ -1,1 +1,1 @@
-# webscrapping-using-beaturifulsoap-selenium
+# webscrapping-using-beautifulsoap-selenium
